@@ -1,0 +1,7 @@
+<templateSet group="JavaScript">
+  <template name="cls" value="console.log($END$)" description="context" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
