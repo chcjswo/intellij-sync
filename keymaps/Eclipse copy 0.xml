@@ -1,19 +1,6 @@
 <keymap version="1" name="Eclipse copy 0" parent="Eclipse">
-  <action id="$Copy">
-    <keyboard-shortcut first-keystroke="ctrl c" />
-    <keyboard-shortcut first-keystroke="meta c" />
-  </action>
-  <action id="$Cut">
-    <keyboard-shortcut first-keystroke="ctrl x" />
-    <keyboard-shortcut first-keystroke="shift delete" />
-    <keyboard-shortcut first-keystroke="meta x" />
-  </action>
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="shift insert" />
-  </action>
-  <action id="$Undo">
-    <keyboard-shortcut first-keystroke="ctrl z" />
-    <keyboard-shortcut first-keystroke="meta z" />
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
@@ -23,28 +10,14 @@
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="ConvertIndentsToSpaces">
-    <keyboard-shortcut first-keystroke="ctrl meta space" />
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
   <action id="ConvertIndentsToTabs">
     <keyboard-shortcut first-keystroke="alt i" />
   </action>
-  <action id="Editor Copy">
-    <keyboard-shortcut first-keystroke="meta c" />
-  </action>
-  <action id="Editor Cut">
-    <keyboard-shortcut first-keystroke="meta x" />
-  </action>
-  <action id="Editor Undo">
-    <keyboard-shortcut first-keystroke="meta z" />
-  </action>
-  <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="ctrl d" />
-    <keyboard-shortcut first-keystroke="meta d" />
-  </action>
   <action id="EditorPasteSimple">
     <keyboard-shortcut first-keystroke="shift ctrl alt v" />
     <keyboard-shortcut first-keystroke="ctrl v" />
-    <keyboard-shortcut first-keystroke="meta v" />
   </action>
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="shift ctrl alt 6" />
@@ -83,9 +56,7 @@
     <keyboard-shortcut first-keystroke="ctrl f10" />
     <keyboard-shortcut first-keystroke="shift alt t" />
   </action>
-  <action id="ShowSettings">
-    <keyboard-shortcut first-keystroke="ctrl alt comma" />
-  </action>
+  <action id="ShowSettings" />
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="shift alt z" />
   </action>

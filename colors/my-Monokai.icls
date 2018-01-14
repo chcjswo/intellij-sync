@@ -1,17 +1,15 @@
-<scheme name="my_Monokai" version="142" parent_scheme="Default">
+<scheme name="my-Monokai" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.3" />
   <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_NAME" value="NanumGothicCoding" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3e3d32" />
     <option name="CONSOLE_BACKGROUND_KEY" value="272822" />
-    <option name="FILESTATUS_MODIFIED" value="ff5dd4" />
-    <option name="FILESTATUS_modifiedOutside" value="ff5dd4" />
+    <option name="FILESTATUS_MODIFIED" value="f88847" />
+    <option name="FILESTATUS_modifiedOutside" value="f88847" />
     <option name="GUTTER_BACKGROUND" value="272822" />
     <option name="INDENT_GUIDE" value="3b3a32" />
     <option name="LINE_NUMBERS_COLOR" value="f8f8f2" />
