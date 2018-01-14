@@ -14,6 +14,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta w" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="ConvertIndentsToSpaces">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+  </action>
   <action id="ConvertIndentsToTabs">
     <keyboard-shortcut first-keystroke="meta alt t" />
   </action>
@@ -50,6 +53,10 @@
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="shift r" />
   </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="meta alt r" />
