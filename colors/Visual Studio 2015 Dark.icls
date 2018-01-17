@@ -1,10 +1,8 @@
 <scheme name="Visual Studio 2015 Dark" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.1" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_NAME" value="NanumGothicCoding" />
+  <option name="FONT_SCALE" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <colors>
     <option name="CARET_ROW_COLOR" value="22282a" />
     <option name="GUTTER_BACKGROUND" value="22282a" />
@@ -36,24 +34,6 @@
     <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="4ec9b0" />
-      </value>
-    </option>
-    <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="70aee1" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="e89852" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="4da7c6" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -90,12 +70,6 @@
         <option name="FOREGROUND" value="66747b" />
       </value>
     </option>
-    <option name="DEFAULT_INSTANCE_FIELD">
-      <value>
-        <option name="FOREGROUND" value="e82786" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="ec7600" />
@@ -116,7 +90,7 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="e89852" />
+        <option name="FOREGROUND" value="bd63c5" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -170,16 +144,6 @@
         <option name="FOREGROUND" value="b8d7a3" />
       </value>
     </option>
-    <option name="JADE_JS_BLOCK">
-      <value>
-        <option name="FOREGROUND" value="70aee1" />
-      </value>
-    </option>
-    <option name="JADE_STATEMENTS">
-      <value>
-        <option name="FOREGROUND" value="ff691a" />
-      </value>
-    </option>
     <option name="JAVA_INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="ec7600" />
@@ -192,11 +156,8 @@
         <option name="FOREGROUND" value="93c763" />
       </value>
     </option>
-    <option name="JS.GLOBAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="e89852" />
-        <option name="FONT_TYPE" value="3" />
-      </value>
+    <option name="METHOD_DECLARATION_ATTRIBUTES">
+      <value />
     </option>
     <option name="OC$CONDITIONALLY_NOT_COMPILED">
       <value>
@@ -208,11 +169,17 @@
         <option name="FOREGROUND" value="bd63c5" />
       </value>
     </option>
+    <option name="OC$OVERLOADED_OPERATOR">
+      <value />
+    </option>
     <option name="OC$SELFSUPERTHIS">
       <value>
         <option name="FOREGROUND" value="93c763" />
         <option name="FONT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="OC$STRUCT_FIELD">
+      <value />
     </option>
     <option name="OC$STRUCT_LIKE">
       <value>

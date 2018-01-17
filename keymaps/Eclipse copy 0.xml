@@ -56,9 +56,7 @@
     <keyboard-shortcut first-keystroke="ctrl f10" />
     <keyboard-shortcut first-keystroke="shift alt t" />
   </action>
-  <action id="ShowSettings">
-    <keyboard-shortcut first-keystroke="ctrl alt comma" />
-  </action>
+  <action id="ShowSettings" />
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="shift alt z" />
   </action>
