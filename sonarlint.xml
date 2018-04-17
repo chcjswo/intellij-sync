@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>df9cdf9fdf92dfc9dfc9dfcfdf93df98df9fdf99df9cdfc9dfccdfc9df9adfcbdfccdfcfdf9edfc8df9ddfc9dfccdfccdf92df9ddf9bdf99df99dfcfdf9cdf93df9adf9cdfc8df93dfc9df98dfc9dfc9</token>
+          <option name="name" value="sonar-cloud" />
+          <organizationKey>chcjswo-github</organizationKey>
+          <enableNotifications>true</enableNotifications>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
