@@ -28,10 +28,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
-    <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
-    </indentOptions>
+    <option name="METHOD_PARAMETERS_WRAP" value="1" />
   </codeStyleSettings>
   <codeStyleSettings language="yaml">
     <indentOptions>
