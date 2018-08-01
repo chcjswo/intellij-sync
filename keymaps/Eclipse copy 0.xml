@@ -12,11 +12,19 @@
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="shift ctrl alt u" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="ConvertIndentsToSpaces">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
   <action id="ConvertIndentsToTabs">
     <keyboard-shortcut first-keystroke="alt i" />
+  </action>
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+  </action>
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="EditorPasteSimple">
     <keyboard-shortcut first-keystroke="shift ctrl alt v" />
@@ -25,12 +33,14 @@
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="shift ctrl alt 6" />
   </action>
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
+  <action id="FindPrevious" />
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
@@ -57,6 +67,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
+  <action id="SendEOF" />
   <action id="ShowContent" />
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="shift alt s" />
@@ -70,4 +81,6 @@
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="shift alt z" />
   </action>
+  <action id="Vcs.Push" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
