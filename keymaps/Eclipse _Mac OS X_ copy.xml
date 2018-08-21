@@ -10,6 +10,7 @@
   <action id="Arrangement.Rule.Group.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="ChangesView.Diff" />
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift ctrl meta w" />
   </action>
@@ -23,8 +24,15 @@
   <action id="Dart.DartStyle">
     <keyboard-shortcut first-keystroke="ctrl meta alt l" />
   </action>
+  <action id="Diff.ShowDiff" />
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="meta v" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+  </action>
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="EditorPaste" />
   <action id="EditorPasteSimple">
@@ -34,6 +42,7 @@
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="ctrl meta alt right" />
   </action>
+  <action id="FileChooser.GotoDesktop" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="meta f" />
   </action>
@@ -72,6 +81,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
+  <action id="SendEOF" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta alt slash" />
   </action>
