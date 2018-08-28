@@ -15,6 +15,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta w" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="ConvertIndentsToSpaces">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
@@ -79,11 +83,16 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta r" />
   </action>
   <action id="RunToCursor" />
+  <action id="Scala.MakeExplicit" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
   <action id="SendEOF" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="meta 1" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta alt slash" />
   </action>
