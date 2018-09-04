@@ -38,6 +38,9 @@
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
+  <action id="EditorJoinLines">
+    <keyboard-shortcut first-keystroke="meta j" />
+  </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="meta right" />
@@ -58,6 +61,7 @@
     <keyboard-shortcut first-keystroke="meta 3" />
     <keyboard-shortcut first-keystroke="shift meta a" />
   </action>
+  <action id="IncrementalSearch" />
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="ctrl meta alt up" />
   </action>
