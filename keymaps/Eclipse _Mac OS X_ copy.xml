@@ -1,6 +1,7 @@
 <keymap version="1" name="Eclipse (Mac OS X) copy" parent="Eclipse (Mac OS X)">
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="ctrl meta alt p" />
+    <keyboard-shortcut first-keystroke="meta 1" />
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="ctrl meta alt t" />
@@ -29,6 +30,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta alt l" />
   </action>
   <action id="Diff.ShowDiff" />
+  <action id="DuplicatesForm.SendToLeft" />
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="meta v" />
   </action>
@@ -54,6 +56,8 @@
     <keyboard-shortcut first-keystroke="ctrl meta alt right" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.GotoModule" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="meta f" />
   </action>
@@ -100,7 +104,6 @@
   </action>
   <action id="SendEOF" />
   <action id="ShowIntentionActions">
-    <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
   <action id="SplitVertically">
@@ -120,5 +123,8 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="alt back_quote" />
   </action>
 </keymap>
