@@ -5,8 +5,6 @@
   </action>
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift meta z" />
-    <keyboard-shortcut first-keystroke="shift alt back_space" />
-    <keyboard-shortcut first-keystroke="meta y" />
   </action>
   <action id="ActivateFindToolWindow" />
   <action id="ActivateTerminalToolWindow">
@@ -34,9 +32,6 @@
   <action id="DomElementsTreeView.DeleteElement">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
-  </action>
-  <action id="Editor Redo">
-    <keyboard-shortcut first-keystroke="meta y" />
   </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
@@ -114,7 +109,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="Vcs.QuickListPopupAction">
-    <keyboard-shortcut first-keystroke="alt back_quote" />
+    <keyboard-shortcut first-keystroke="alt v" />
   </action>
   <action id="XDebugger.RemoveWatch">
     <keyboard-shortcut first-keystroke="delete" />
