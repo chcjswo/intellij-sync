@@ -1,19 +1,9 @@
 <keymap version="1" name="Eclipse copy 0" parent="Eclipse">
-  <action id="$Copy">
-    <keyboard-shortcut first-keystroke="ctrl c" />
-    <keyboard-shortcut first-keystroke="meta c" />
-  </action>
-  <action id="$Cut">
-    <keyboard-shortcut first-keystroke="ctrl x" />
-    <keyboard-shortcut first-keystroke="shift delete" />
-    <keyboard-shortcut first-keystroke="meta x" />
-  </action>
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="shift insert" />
   </action>
-  <action id="$Undo">
-    <keyboard-shortcut first-keystroke="ctrl z" />
-    <keyboard-shortcut first-keystroke="meta z" />
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
@@ -22,39 +12,42 @@
   </action>
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="shift ctrl alt u" />
+  </action>
+  <action id="CompareTwoFiles" />
   <action id="ConvertIndentsToSpaces">
-    <keyboard-shortcut first-keystroke="ctrl meta space" />
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
   <action id="ConvertIndentsToTabs">
     <keyboard-shortcut first-keystroke="alt i" />
   </action>
-  <action id="Editor Copy">
-    <keyboard-shortcut first-keystroke="meta c" />
-  </action>
-  <action id="Editor Cut">
-    <keyboard-shortcut first-keystroke="meta x" />
-  </action>
-  <action id="Editor Undo">
-    <keyboard-shortcut first-keystroke="meta z" />
+  <action id="Diff.ShowDiff" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
   </action>
   <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="ctrl d" />
-    <keyboard-shortcut first-keystroke="meta d" />
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorMatchBrace" />
   <action id="EditorPasteSimple">
     <keyboard-shortcut first-keystroke="shift ctrl alt v" />
     <keyboard-shortcut first-keystroke="ctrl v" />
-    <keyboard-shortcut first-keystroke="meta v" />
   </action>
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="shift ctrl alt 6" />
   </action>
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
+  <action id="FindPrevious" />
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
@@ -77,6 +70,12 @@
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="RunToCursor" />
+  <action id="Scala.ShowImplicitArguments" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="SendEOF" />
   <action id="ShowContent" />
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="shift alt s" />
@@ -86,7 +85,12 @@
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl alt comma" />
   </action>
+  <action id="ShowUmlDiagram" />
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="shift alt z" />
   </action>
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="openAssertEqualsDiff" />
 </keymap>
