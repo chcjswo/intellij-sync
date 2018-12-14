@@ -1,12 +1,5 @@
 <application>
   <component name="GrepConsole">
-    <option name="donationNagger">
-      <DonationNagger>
-        <option name="actionsExecuted" value="2" />
-        <option name="firstUsage" value="0" />
-        <option name="firstUsedVersion" value="8.4.162.000.1" />
-      </DonationNagger>
-    </option>
     <option name="profiles">
       <list>
         <Profile>
@@ -90,17 +83,12 @@
               </GrepExpressionGroup>
             </list>
           </option>
-          <option name="id" value="1536638838906" />
+          <option name="id" value="1541998309588" />
           <option name="inputFilterGroups">
             <list>
               <GrepExpressionGroup>
                 <option name="grepExpressionItems">
                   <list>
-                    <GrepExpressionItem>
-                      <option name="action" value="externalScriptReference" />
-                      <option name="enabled" value="false" />
-                      <option name="grepExpression" value=".*" />
-                    </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="action" value="REMOVE" />
                       <option name="enabled" value="false" />
@@ -121,6 +109,5 @@
         </Profile>
       </list>
     </option>
-    <option name="version" value="1" />
   </component>
 </application>
