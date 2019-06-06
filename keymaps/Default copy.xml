@@ -1,0 +1,13 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="shift ctrl alt insert" />
+  </action>
+  <action id="NewScratchFile" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="shift ctrl alt 0" />
+  </action>
+</keymap>
