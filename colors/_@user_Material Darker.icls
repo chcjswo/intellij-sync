@@ -4,12 +4,12 @@
     <property name="created">2019-05-20T22:32:33</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-06-12T23:54:03</property>
+    <property name="modified">2019-06-17T23:12:44</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_NAME" value="NanumGothicCoding" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
