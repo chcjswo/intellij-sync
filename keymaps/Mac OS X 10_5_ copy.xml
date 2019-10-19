@@ -19,6 +19,9 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="CodeGlance.toggle">
+    <keyboard-shortcut first-keystroke="ctrl meta alt g" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Debugger.RemoveArrayFilter">
     <keyboard-shortcut first-keystroke="delete" />
